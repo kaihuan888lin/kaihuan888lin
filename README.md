@@ -13,4 +13,4 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
 
 <a href="https://github.com/kaihuan888lin/kaihuan888lin"><img loading="lazy" width="149" height="149" src="https://github.blog/wp-content/uploads/2008/12/forkme_right_darkblue_121621.png?resize=149%2C149" class="attachment-full size-full" alt="Fork me on GitHub" data-recalc-dims="1"></a>
 
-![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)
+![Typing SVG](https://readme-typing-svg.demolab.com/?lines=welcome+to+my+github;hello+visitors)
