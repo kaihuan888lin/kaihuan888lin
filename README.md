@@ -21,4 +21,4 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
   <img alt="github contribution grid snake animation" src="https://github.com/kaihuan888lin/kaihuan888lin/blob/output/github-contribution-grid-snake.svg">
 </picture>
 
-![3D]()
+![3D](https://github.com/kaihuan888lin/kaihuan888lin/blob/main/profile-3d-contrib/profile-south-season-animate.svg)
