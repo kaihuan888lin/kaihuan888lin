@@ -40,7 +40,7 @@ jobs:
         plugin_contributors_sections: categories
         plugin_contributors_categories: |
           {
-            "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+            "🧩 Plugins / 🖼️ templates":["/**", "/**"],
             "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
             "💻 Code (other)":["/**", "Dockerfile"]
           }
