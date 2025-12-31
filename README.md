@@ -9,4 +9,4 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
 
 ![GitHub Stats](https://github-immortality.vercel.app/api?username=kaihuan888lin)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=kaihuan888lin)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaihuan888lin)](https://git.io/streak-stats)
