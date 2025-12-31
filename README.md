@@ -2,4 +2,4 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
 
 ![Metrics](/github-metrics.svg)
 ![Metrics](/metrics.plugin.languages.details.svg)
-![Metrics](metrics.plugin.achievements.compact.svg)
+
