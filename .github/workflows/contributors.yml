@@ -1,0 +1,31 @@
+name: Metrics
+on:
+  # Schedule updates (each hour)
+  schedule: [{cron: "0 * * * *"}]
+  # Lines below let you run workflow manually and on each commit
+  workflow_dispatch:
+  push: {branches: ["master", "main"]}
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    environment: 
+      name: production
+    permissions:
+      contents: write
+    steps:
+          - name: Contributors by categories
+            uses: lowlighter/metrics@latest
+            with:
+              filename: metrics.plugin.contributors.categories.svg
+              token: ${{ secrets.METRICS_TOKEN }}
+              base: ""
+              template: repository
+              repo: metrics
+              plugin_contributors: yes
+              plugin_contributors_sections: categories
+              plugin_contributors_categories: |
+                {
+                  "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+                  "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+                  "💻 Code (other)":["source/**", "Dockerfile"]
+                }
