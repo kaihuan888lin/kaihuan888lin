@@ -11,4 +11,4 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=kaihuan888lin)](https://git.io/streak-stats)
 
-[[!star](https://www.star-history.com/?kaihuan888lin/kaihuan888lin)]
+<img src="https://www.star-history.com/#kaihuan888lin/kaihuan888lin">
