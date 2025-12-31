@@ -28,15 +28,21 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
     # Runs a single command using the runners shell
-    - name: Contributors with contributions count
+    - name: Contributors by categories
       uses: lowlighter/metrics@latest
       with:
-        filename: metrics.plugin.contributors.contributions.svg
+        filename: metrics.plugin.contributors.categories.svg
         token: ${{ secrets.METRICS_TOKEN }}
         base: ""
         template: repository
         repo: metrics
         plugin_contributors: yes
-        plugin_contributors_contributions: yes
+        plugin_contributors_sections: categories
+        plugin_contributors_categories: |
+          {
+            "🧩 Plugins / 🖼️ templates":["source/plugins/**", "source/templates/**"],
+            "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
+            "💻 Code (other)":["/**", "Dockerfile"]
+          }
 
 
