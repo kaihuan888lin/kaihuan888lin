@@ -26,12 +26,12 @@ jobs:
         template: repository
         repo: metrics
         plugin_contributors: yes
-        plugin_contributors_sections: categories
+        plugin_contributors_sections: contributors
         plugin_contributors_categories: |
           {
             "🖼️ bin":["bin/**"],
-            "📚 Documentation":["README.md", "**/README.md", "**/metadata.yml"],
-            "💻 Code (other)":["/adam/**", "/perf/**"]
+            "📚 Documentation":["README.md", "**/README.md", "metadata.yml"],
+            "💻 Code (other)":["adam/**", "perf/**"]
           }
 
 
