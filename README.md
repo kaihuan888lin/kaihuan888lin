@@ -7,4 +7,8 @@ visit times: ![views since 2025/01/06](https://komarev.com/ghpvc/?username=kaihu
 
 ![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kaihuan888lin)
 
-![GitHub Stats](https://github-immortality.vercel.app/api?username=kaihuan888lin)   [![GitHub Streak](https://streak-stats.demolab.com/?user=kaihuan888lin)](https://git.io/streak-stats)
+![GitHub Stats](https://github-immortality.vercel.app/api?username=kaihuan888lin) 
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaihuan888lin)](https://git.io/streak-stats)
+
+[[!star](https://www.star-history.com/#kaihuan888lin/kaihuan888lin&type=date&legend=top-left)]
